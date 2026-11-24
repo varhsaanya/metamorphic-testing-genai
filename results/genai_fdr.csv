@@ -1,0 +1,6 @@
+mr_name,fault_detect_rate,true_positives,total_defects
+MR13_LOCCommentReduction,0.5312,213,401
+MR12_BranchCountDoubling,0.3741,150,401
+MR10_HalsteadDifficultyIncrease,0.2993,120,401
+MR9_HalsteadVolumeIncrease,0.2818,113,401
+MR11_OperatorOperandSwap,0.0648,26,401

@@ -1,0 +1,9 @@
+mr_name,n_samples,n_violations,violation_rate,exec_time_s
+MR5_DeadCodeRemoval,1782,1225,0.6874,0.1165
+MR4_MonotoneComplexityIncrease,1782,356,0.1998,0.172
+MR2_ProportionalScaling,1782,41,0.023,0.0967
+MR1_AdditiveNoise,1782,38,0.0213,0.1642
+MR3_FeaturePermutation,1782,26,0.0146,0.1693
+MR7_ExtremeOutlier,1782,14,0.0079,0.0978
+MR6_ConsistentDuplication,1782,0,0.0,0.2305
+MR8_NearZeroComplexity,1782,0,0.0,0.1102

@@ -1,0 +1,6 @@
+mr_name,n_samples,n_violations,violation_rate,exec_time_s
+MR13_LOCCommentReduction,1782,887,0.4978,0.5794
+MR12_BranchCountDoubling,1782,555,0.3114,0.7887
+MR10_HalsteadDifficultyIncrease,1782,411,0.2306,1.2329
+MR9_HalsteadVolumeIncrease,1782,361,0.2026,1.3959
+MR11_OperatorOperandSwap,1782,56,0.0314,1.2849

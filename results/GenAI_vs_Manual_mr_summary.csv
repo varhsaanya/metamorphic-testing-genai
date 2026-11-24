@@ -1,0 +1,14 @@
+mr_name,n_samples,n_violations,violation_rate,exec_time_s
+MR13_LOCCommentReduction,1782,887,0.4978,0.5794
+MR12_BranchCountDoubling,1782,555,0.3114,0.7887
+MR10_HalsteadDifficultyIncrease,1782,411,0.2306,1.2329
+MR9_HalsteadVolumeIncrease,1782,361,0.2026,1.3959
+MR11_OperatorOperandSwap,1782,56,0.0314,1.2849
+MR5_DeadCodeRemoval,1782,1185,0.665,0.7778
+MR4_MonotoneComplexityIncrease,1782,261,0.1465,1.1912
+MR2_ProportionalScaling,1782,85,0.0477,1.0781
+MR3_FeaturePermutation,1782,83,0.0466,1.2937
+MR1_AdditiveNoise,1782,49,0.0275,0.9112
+MR7_ExtremeOutlier,1782,11,0.0062,0.4566
+MR6_ConsistentDuplication,1782,0,0.0,0.957
+MR8_NearZeroComplexity,1782,0,0.0,0.4632
